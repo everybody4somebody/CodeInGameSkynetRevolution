@@ -3,12 +3,6 @@ import java.io.*;
 import java.math.*;
 import java.awt.Point;
 
-
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
- 
 class QueueNode implements Comparable<QueueNode>{
     
     private int distanceFromGate;
